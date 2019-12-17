@@ -7,7 +7,7 @@
     "@material-ui/icons": "latest",
     "ansi_up": "*",
     "classnames": "*",
-    "graphql": "*",
+    "graphql": "14.5.8",
     "graphql-relay": "*",
     "js-base64": "*",
     "pluralize": "*",
