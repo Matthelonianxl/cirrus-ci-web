@@ -16,7 +16,7 @@
     "react-dom": "*",
     "react-loadable": "*",
     "react-markdown": "*",
-    "react-relay": "*",
+    "react-relay": "1.7.0",
     "react-router-dom": "*",
     "react-stripe-elements": "*",
     "react-tap-event-plugin": "*",
