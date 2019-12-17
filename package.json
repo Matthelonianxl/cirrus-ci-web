@@ -11,7 +11,7 @@
     "graphql-relay": "*",
     "js-base64": "*",
     "pluralize": "*",
-    "prop-types": "*",
+    "prop-types": "15.7.2",
     "react": "*",
     "react-dom": "*",
     "react-loadable": "*",
