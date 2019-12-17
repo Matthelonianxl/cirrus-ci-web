@@ -13,7 +13,7 @@
     "pluralize": "*",
     "prop-types": "*",
     "react": "*",
-    "react-dom": "*",
+    "react-dom": "16.12.0",
     "react-loadable": "*",
     "react-markdown": "*",
     "react-relay": "*",
