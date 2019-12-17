@@ -9,7 +9,7 @@
     "classnames": "*",
     "graphql": "*",
     "graphql-relay": "*",
-    "js-base64": "*",
+    "js-base64": "2.5.1",
     "pluralize": "*",
     "prop-types": "*",
     "react": "*",
