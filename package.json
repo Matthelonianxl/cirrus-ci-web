@@ -8,7 +8,7 @@
     "ansi_up": "*",
     "classnames": "*",
     "graphql": "*",
-    "graphql-relay": "*",
+    "graphql-relay": "0.6.0",
     "js-base64": "*",
     "pluralize": "*",
     "prop-types": "*",
