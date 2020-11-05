@@ -15,7 +15,7 @@
     "react": "*",
     "react-dom": "*",
     "react-loadable": "*",
-    "react-markdown": "*",
+    "react-markdown": "5.0.0",
     "react-relay": "*",
     "react-router-dom": "*",
     "react-stripe-elements": "*",
