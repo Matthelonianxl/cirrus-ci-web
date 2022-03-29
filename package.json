@@ -20,7 +20,7 @@
     "react-router-dom": "*",
     "react-stripe-elements": "*",
     "react-tap-event-plugin": "*",
-    "recharts": "*"
+    "recharts": "2.1.3"
   },
   "devDependencies": {
     "babel-preset-react-app": "*",
