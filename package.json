@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "latest",
-    "@material-ui/icons": "latest",
+    "@material-ui/icons": "4.0.0",
     "ansi_up": "*",
     "classnames": "*",
     "graphql": "*",
@@ -16,7 +16,7 @@
     "react-dom": "*",
     "react-loadable": "*",
     "react-markdown": "*",
-    "react-relay": "*",
+    "react-relay": "10.1.0",
     "react-router-dom": "*",
     "react-stripe-elements": "*",
     "react-tap-event-plugin": "*",
