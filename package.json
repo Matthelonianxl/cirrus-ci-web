@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "latest",
-    "@material-ui/icons": "latest",
+    "@material-ui/icons": "4.11.3",
     "ansi_up": "*",
     "classnames": "*",
     "graphql": "*",
